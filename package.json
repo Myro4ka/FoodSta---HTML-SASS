@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://VikaRazuiova.github.io/super-food",
+  "homepage": "https://Myro4ka.github.io/FoodSta---HTML-SASS",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /super-food/"
+    "build": "parcel build src/*.html --public-url /FoodSta---HTML-SASS/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/Myro4ka/FoodSta---HTML-SASS.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/Myro4ka/FoodSta---HTML-SASS/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
